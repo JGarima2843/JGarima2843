@@ -1,19 +1,166 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Garima Jain 👋</h1>
 
+<p align="center">
+Backend Engineer • AI Systems Developer • Cloud & Automation Enthusiast
+</p>
 
-**JGarima2843/JGarima2843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:garimaj334@gmail.com">
+    <img src="https://img.shields.io/badge/Email-garimaj334%40gmail.com-black?style=flat-square&logo=gmail">
+  </a>
+  
+  <a href="https://linkedin.com/in/garima-jain-98a776217">
+    <img src="https://img.shields.io/badge/LinkedIn-Garima%20Jain-blue?style=flat-square&logo=linkedin">
+  </a>
 
-💫 About Me:
-Hi there! I'm Garima Jain 👋  <br>An SDE-2 Backend Developer at Manrke, passionate about building scalable systems, clean architectures, and high-performance backend applications.<br><br>💻 I primarily work with:<br>- ⚡ NestJS<br>- 🐍 Python<br>- 🚂 Express.js<br><br>I genuinely love backend engineering — from designing APIs and microservices to optimizing databases and architecting reliable systems that scale efficiently.<br><br>☁️ Alongside backend development, I also have a strong interest in DevOps and enjoy working deep down the infrastructure side of things:<br>- 🐳 Docker<br>- ⚙️ CI/CD Pipelines<br>- ☁️ Cloud & Deployment Workflows<br>- 🔧 System Optimization & Automation<br><br>🤖 Currently diving into the world of Agentic AI and exploring how autonomous AI systems can transform modern applications and developer workflows.<br><br>✨ What drives me:<br>- Building robust and production-ready systems<br>- Writing clean, maintainable code<br>- Solving complex engineering problems<br>- Continuously learning and evolving with technology<br><br>> “Great backend systems are invisible — but they power everything.” ⚙️
+  <a href="https://github.com/JGarima2843">
+    <img src="https://img.shields.io/badge/GitHub-JGarima2843-black?style=flat-square&logo=github">
+  </a>
+</p>
 
-🌐 Socials:
-![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
-💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=JGarima2843&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=JGarima2843&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JGarima2843&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-![](https://komarev.com/ghpvc/?username=JGarima2843&icon=0&color=0)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🚀 About Me
+
+Software Engineer focused on building scalable backend systems, AI-powered applications, and cloud-native architectures.
+
+I enjoy designing production-grade systems that are:
+- scalable
+- maintainable
+- performant
+- developer-friendly
+
+Currently working on:
+- 🤖 Agentic AI Systems
+- ⚡ LLM Orchestration Pipelines
+- ☁️ Cloud Infrastructure
+- 🔧 Backend Architecture & Automation
+
+---
+
+## 💼 Experience
+
+### **Software Engineer — Manrke**
+`Oct 2024 - Present`
+
+- Building AI-powered automation systems using **Python**, **LangGraph**, and **LLM workflows**
+- Developing scalable backend orchestration pipelines
+- Improving workflow reliability, modularity, and performance
+- Working on production-ready AI agent systems
+
+### **Software Engineer — Hidden Talent**
+`Jun 2024 - Oct 2024`
+
+- Built scalable applications using **NestJS**, **Angular**, and **Python**
+- Designed REST APIs and backend services
+- Deployed cloud-native applications on AWS
+- Worked across complete SDLC lifecycle
+
+### **Teaching Assistant — Coding Ninjas**
+`Jan 2022 - Feb 2024`
+
+- Mentored 3000+ students globally
+- Taught DSA, Python, C++, backend engineering
+- Guided students in debugging and scalable coding practices
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+
+### Backend & Frameworks
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
+
+### AI & Cloud
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+
+---
+
+# 📌 Featured Projects
+
+## ⚡ Cloud-Native E-Commerce Platform
+Full-stack scalable commerce platform built with:
+- NestJS
+- Angular
+- AWS S3
+- AWS RDS
+- Elastic Beanstalk
+
+### Key Features
+- Authentication & authorization
+- Cloud deployment
+- Scalable backend APIs
+- Production-ready architecture
+
+---
+
+## 🤖 Automated Data Processing Pipeline
+
+Python-based ETL automation system that:
+- reduced manual effort by 90%
+- automated validation workflows
+- improved operational throughput
+
+Tech:
+`Python • Pandas • SQL`
+
+---
+
+# 📊 GitHub Metrics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Longest%20Streak-200%2B%20Days-black?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Total%20Commits-500%2B-black?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-black?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JGarima2843&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JGarima2843&theme=github-dark&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGarima2843&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+- Agentic AI Systems
+- LLM Infrastructure
+- Distributed Systems
+- Cloud Automation
+- AI Workflow Orchestration
+
+---
+
+# ✨ Philosophy
+
+> Great backend systems are invisible — but they power everything.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JGarima2843&style=flat-square&color=blue" />
+</p>

@@ -132,17 +132,6 @@ Tech:
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-black?style=for-the-badge" />
 
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JGarima2843&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JGarima2843&theme=github-dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGarima2843&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
 ---
 
 # 🌱 Currently Exploring
